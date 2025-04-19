@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/kammara-keshava](https://github.com/kammara-keshava)
+
+- 📝 I regularly write articles on [https://dev.to/keshava_72](https://dev.to/keshava_72)
+
 - 📫 How to reach me **kesava9347@gmail.com**
+
+- ⚡ Fun fact **90% of coding is debugging. The other 10% is writing bugs. 😅!!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
